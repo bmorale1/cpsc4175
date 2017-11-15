@@ -1,0 +1,54 @@
+<?xml version= "1.0"?>
+<Menu>
+	<Food>
+		<name> Burger </name>
+		<price> 2.99 </price>
+	</Food>
+	<Food>
+		<name> fries </name>
+		<price> 1.99(small) 2.59 (med) 3.29 (Large) </price>
+	</Food>
+	<Food>
+		<name> Pizza </name>
+		<price> 2.50 (Slice) 7.99 (Personal Pan) </price>
+	</Food>
+	<Food>
+		<name> Shake (chocolate Vanilla Strawberry) </name>
+		<price> 1.99(small) 2.59 (med) 3.29 (Large) </price>
+	</Food>
+	<Food>
+		<name> Fried Pickles </name>
+		<price> 2.99 </price>
+	</Food>
+	<Food>
+		<name> Chicked sandwich </name>
+		<price> 2.50 </price>
+	</Food>
+	<Food>
+		<name> Deluxe chicken sandwich </name>
+		<price> 3.50 </price>
+	</Food>
+	<Food>
+		<name> Deluxe Burger </name>
+		<price> 3.99 </price>
+	</Food>
+	<Food>
+		<name> BBQ sandwich </name>
+		<price> 1.99 </price>
+	</Food>
+	<Food>
+		<name> Deluxe BBQ sandwich  </name>
+		<price> 2.99 </price>
+	</Food>
+	<Food>
+		<name> Sandwich sliders </name>
+		<price> .99 </price>
+	</Food>
+	<Food>
+		<name> BBQ sandwich </name>
+		<price> 1.99 </price>
+	</Food>
+	<Food>
+		<name> cheesecake </name>
+		<price> 1.99 </price>
+	</Food>
